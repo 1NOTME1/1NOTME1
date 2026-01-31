@@ -1,15 +1,20 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>
-An enterprise-grade HR system (**eHR Manager**) built with Django REST and PostgreSQL.<br>
-👯 I’m looking to collaborate on<br>
-Backend-heavy web applications, internal systems, and process automation.<br>
-🤝 I’m looking for help with<br>
-Architecture reviews, security best practices, and production readiness.<br>
-🌱 I’m currently learning<br>
-Advanced Django, SQL (PostgreSQL), application security, and DevOps fundamentals.<br>
-💬 Ask me about<br>
-Django REST APIs, backend architecture, role-based access control, data modeling, system design.<br>
-⚡ Fun fact<br>
+🔭 I’m currently working on  
+An enterprise-grade HR system (**eHR Manager**) built with Django REST and PostgreSQL.
+
+👯 I’m looking to collaborate on  
+Backend-heavy web applications, internal systems, and process automation.
+
+🤝 I’m looking for help with  
+Architecture reviews, security best practices, and production readiness.
+
+🌱 I’m currently learning  
+Advanced Django, SQL (PostgreSQL), application security, and DevOps fundamentals.
+
+💬 Ask me about  
+Django REST APIs, backend architecture, role-based access control, data modeling, system design.
+
+⚡ Fun fact  
 I build full systems end-to-end – backend, frontend, infrastructure, and documentation.
 
 
